@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Reid","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"SF_Actor3_7","characterIndex":2,"characterName":"SF_People1","classId":9,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"SF_People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tariq","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":7,"characterName":"People1","classId":3,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Doña Yara","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"SF_Actor3","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gustavo","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Evil","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Señor Vasquez","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

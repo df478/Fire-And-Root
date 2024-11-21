@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Escena 2","order":2,"parentId":0,"scrollX":816,"scrollY":624,"quick":false},
+{"id":2,"expanded":true,"name":"Escena 1","order":1,"parentId":0,"scrollX":712,"scrollY":574,"quick":false},
+{"id":3,"expanded":false,"name":"Escena 3","order":3,"parentId":0,"scrollX":816,"scrollY":1151.5555555555557,"quick":false},
+{"id":4,"expanded":false,"name":"Escena 4","order":4,"parentId":0,"scrollX":616.8888888888889,"scrollY":964.8888888888889,"quick":false}
+]
